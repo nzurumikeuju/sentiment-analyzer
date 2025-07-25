@@ -17,14 +17,3 @@ Dr. Obianuju Lynda Nzurumike
 Data Scientist | AI Researcher | Tech Educator
 nzurumikeuju@yahoo.com
 Calgary, Alberta
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
