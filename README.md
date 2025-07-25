@@ -4,8 +4,8 @@ Sentiment Analyzer App
 
 
 This is a simple and interactive Sentiment Analysis web app built using **Streamlit** and **Scikit-learn**. The app uses a Naive Bayes classifier to determine whether a user’s input text is **positive**, **negative**, or **neutral**.
-
-[Click here to try the app live on Streamlit Cloud](https://nzurumikeuju-sentiment-analyzer.streamlit.app)
+click the link below to open the app
+https://sentiment-analyzer-88888888.streamlit.app/
 
 The app is powered by a basic machine learning pipeline:
 
